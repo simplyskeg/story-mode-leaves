@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "§lRevamped Leaves! \n§7V1.1 | By Tixul",
-    "pack_format": 15, 
+    "description": "§lRevamped Leaves! \n§7V1.2 | By Tixul",
+    "pack_format": 15,
     "supported_formats": [15,	128], 
     "min_format": 15,
     "max_format":128
